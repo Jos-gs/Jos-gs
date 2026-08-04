@@ -1,4 +1,5 @@
-👋 Hola, soy José Guillermo Gonzales Siancas
+
+<h1 align="center">👋 Hola, soy José Guillermo Gonzales Siancas</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/205097761?s=400&u=409732a3830fe70fbe104295d84d4cfcc905ca28&v=4" width="220" style="border-radius:50%">
@@ -41,11 +42,11 @@ Sistema Veterinaria BencoVet
 
 📊 GitHub Stats
 
-
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 📫 Contacto
 
