@@ -42,7 +42,6 @@ Sistema Veterinaria BencoVet
 
 📊 GitHub Stats
 
-<h2>🐍 Mis contribuciones</h2>
 
 <p align="center">
   <picture>
